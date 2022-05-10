@@ -1,0 +1,5 @@
+1.Take values of length and breadth of a rectangle from user and check if it is square or not.
+2.Take two int values from user and print greatest among them.
+3.Take input of age of 3 people by user and determine oldest and youngest among them.
+4.Write a program to check whether a entered character is lowercase ( a to z ) or uppercase ( A to Z ).
+(hint use ascii value concept for this and type casting)
